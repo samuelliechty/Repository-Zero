@@ -1,4 +1,4 @@
-import java.text.DecimalFormat;
+import java.text.DecimalFormat; //GitHub edit!
 import java.util.Scanner;
 public class SciCalculator {
     public static void main(String[] args) {
